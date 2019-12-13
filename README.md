@@ -1,2 +1,2 @@
 # GeekyProjectGit
-This is my first project on GitHub
+This is my first Project on GitHub
